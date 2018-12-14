@@ -1,0 +1,69 @@
+ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin-bottom: 0px;
+    
+}
+
+.services {
+  float: left;
+    background-color: dimgrey;
+     margin-right: 3px;
+    width: 185px;
+    
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+   
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #1faa64;
+}
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+body{
+    background-color: black;
+}
+
+.line{
+    width: 988px; height: 0px; border:1px solid #1faa64; margin-top: 0px;
+}
+.button_read{
+    background-color: #1faa64;
+
+    
+    border-radius: 10%;
+}
+table{
+    background-color: black;
+    width: auto;
+    height: auto;
+}
+h2{
+    color: aliceblue;
+}
+.dist{
+    padding: 1px;
+    margin: 5px;
+}
+p{
+    color: aliceblue;
+}
+ul{
+    color: aliceblue;
+}
+{
+    
+}
